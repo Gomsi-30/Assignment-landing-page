@@ -29,7 +29,7 @@ class Pehladiv extends Component {
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi hic labore ratione inventore!
           </p>
           <div className="flex flex-col sm:flex-row mt-1 lg:mt-[15px] items-center gap-5">
-            <Button className="">Getting Started --></Button>
+            <Button className="">Getting Started</Button>
             <div className="flex gap-1 items-center">
               <VideoIcon />
               <h1 className="text-1xl font-semibold">Watch Video</h1>
